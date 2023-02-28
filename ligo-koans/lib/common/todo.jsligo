@@ -1,0 +1,2 @@
+export const todo : <T>((message:string) => T) = 
+    message => failwith(message);
